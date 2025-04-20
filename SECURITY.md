@@ -10,7 +10,7 @@ We actively maintain and provide security updates for the following versions of 
 | Version | Supported          |
 |---------|--------------------|
 | 1.0.0   | ✅ Fully supported |
-| 0.0.0   | ❌ No longer supported |
+| 1.0.1   | 🕒 In development |
 
 ---
 
